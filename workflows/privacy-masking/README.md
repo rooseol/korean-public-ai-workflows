@@ -38,10 +38,10 @@ This workflow helps remove or mask personal information from administrative docu
 
 ### Input
 
-홍길동 / 010-1234-5678 / 광주광역시 북구 / 900101-1234567
+홍길동 / 010-1234-5678 / 서울특별시 강남구 / 900101-1234567
 
 ---
 
 ### Output
 
-홍OO / 010-****-5678 / 광주광역시 북구 / 900101-1******
+홍OO / 010-****-5678 / 서울특별시 강남구 / 900101-1******
