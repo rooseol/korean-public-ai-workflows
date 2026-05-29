@@ -62,3 +62,11 @@ It focuses on clarity, consistency, and professional documentation style.
 
 #### 현재 상태
 - 정상 운영 중
+
+- ---
+
+## Notes
+
+- Keep reports concise
+- Focus on objective descriptions
+- Avoid unnecessary emotional expressions
