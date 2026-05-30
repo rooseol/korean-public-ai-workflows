@@ -59,4 +59,5 @@ This workflow helps prepare meetings by organizing agendas, objectives, particip
 - [Report Writing](../report-writing/README.md)
 - [Meeting Preparation](../meeting-preparation/README.md)
 
-[Meeting Summary](../meeting-summary)
+[Meeting Summary](../meeting-summary) tree test
+[Meeting Summary README](../meeting-summary/README.md) blob test
