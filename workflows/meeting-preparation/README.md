@@ -58,3 +58,5 @@ This workflow helps prepare meetings by organizing agendas, objectives, particip
 - [Complaint Response](../complaint-response/README.md)
 - [Report Writing](../report-writing/README.md)
 - [Meeting Preparation](../meeting-preparation/README.md)
+
+[Meeting Summary](../meeting-summary)
