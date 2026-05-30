@@ -52,7 +52,7 @@ This workflow helps prepare meetings by organizing agendas, objectives, particip
 
 ## Workflows
 
-- [Meeting Summary](../meeting-summary.README.md)
+- [Meeting Summary](./meeting-summary.README.md)
 - [Privacy Masking](../privacy-masking/README.md)
 - [Incident Report](../incident-report/README.md)
 - [Complaint Response](../complaint-response/README.md)
