@@ -1,1 +1,1 @@
-![GitHub Study](images/collage.png)
+![GitHub Study](../images/collage.png)
