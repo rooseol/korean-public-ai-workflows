@@ -25,3 +25,5 @@ Organize information into a reusable knowledge base.
 - 핵심 내용
 - 참고자료
 - 활용방안
+
+> Knowledge grows when it is shared.
