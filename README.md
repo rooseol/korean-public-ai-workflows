@@ -58,3 +58,7 @@ MIT
 ## Branch Study
 
 This section was added in study-branch.
+
+## Pull Request Study
+
+This section is for pull request practice.
