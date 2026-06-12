@@ -62,3 +62,11 @@ This section was added in study-branch.
 ## Pull Request Study
 
 This section is for pull request practice.
+
+## Meeting Preparation Checklist
+
+- [ ] Agenda prepared
+- [ ] Supporting documents attached
+- [ ] Participants confirmed
+- [ ] Meeting room reserved
+- [ ] Follow-up date scheduled
