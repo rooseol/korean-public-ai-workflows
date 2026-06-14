@@ -29,7 +29,7 @@ A good automation idea usually has the following characteristics:
 | Privacy masking assistant | Text document | Masked document | Medium | High |
 | Equipment inspection log organizer | Excel file | Filtered issue list | Medium | Medium |
 | Official notice draft generator | Basic notice details | Draft announcement | Low | High |
-
+| CCTV inspection checklist generator | Inspection notes | Checklist and issue summary | Medium | Medium |
 ---
 
 ## Idea Template
