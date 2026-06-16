@@ -73,3 +73,28 @@ Good first projects should help with:
 5. Organizing
 
 Avoid projects that make final decisions without human review.
+
+## Idea Status Board
+
+This table tracks automation ideas from rough concept to implementation.
+
+| Status    | Meaning                             |
+| --------- | ----------------------------------- |
+| Backlog   | Idea collected but not reviewed yet |
+| Reviewing | Idea is being evaluated             |
+| Ready     | Clear enough to build               |
+| Building  | Currently being developed           |
+| Done      | Completed or published              |
+
+---
+
+## Current Idea Status
+
+| Idea                               | Status    | Next Action                     |
+| ---------------------------------- | --------- | ------------------------------- |
+| Meeting notes to action plan       | Ready     | Create first Codex project plan |
+| Complaint classification           | Reviewing | Define categories               |
+| Privacy masking assistant          | Reviewing | Prepare sample input and output |
+| Equipment inspection log organizer | Backlog   | Collect sample Excel format     |
+| Official notice draft generator    | Backlog   | Define required input fields    |
+
