@@ -98,3 +98,8 @@ This table tracks automation ideas from rough concept to implementation.
 | Equipment inspection log organizer | Backlog   | Collect sample Excel format     |
 | Official notice draft generator    | Backlog   | Define required input fields    |
 
+
+| Idea | Status | Next Action |
+|---|---|---|
+| ~~Full automatic complaint reply sender~~ | Dropped | Too risky |
+| Meeting notes to action plan | Ready | Create first Codex project plan |
