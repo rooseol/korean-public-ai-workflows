@@ -76,6 +76,8 @@ It does not need:
 
 ---
 
+<details> <summary> ## Codex Prompt Draft  </summary>
+
 ## Codex Prompt Draft
 
 ```text
@@ -89,7 +91,7 @@ Requirements:
 - Start with a simple command-line script
 - Keep the code beginner-friendly
 ```
-
+</details>
 ---
 
 ## Status
