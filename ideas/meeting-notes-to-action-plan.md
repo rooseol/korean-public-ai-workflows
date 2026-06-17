@@ -12,7 +12,7 @@ This automation idea is intended to help users quickly identify decisions, tasks
 
 Meeting notes often contain useful information, but the important action items are mixed with general discussion.
 
-Manual整理 takes time and important follow-up tasks can be missed.
+Manual takes time and important follow-up tasks can be missed.
 
 ---
 
@@ -76,9 +76,7 @@ It does not need:
 
 ---
 
-<details> <summary> ## Codex Prompt Draft  </summary>
-
-## Codex Prompt Draft
+<details> <summary> ## Codex Prompt Draft </summary>
 
 ```text
 I want to build a simple Python script that converts meeting notes into a structured action plan.
@@ -91,8 +89,9 @@ Requirements:
 - Start with a simple command-line script
 - Keep the code beginner-friendly
 ```
-</details>
 ---
+</details>
+
 
 ## Status
 
