@@ -127,13 +127,11 @@ Technical requirements:
 
 ## Key Principle
 
-Do not ask Codex to build a complete system at once.
-
-Start with a small working version.
-Then improve it step by step.
-
 **Start small.**
 
 *The first version should solve one clear problem.*
 
-## Key Principle
+Do not ask Codex to build a complete system at once.
+
+Start with a small working version.
+Then improve it step by step.
