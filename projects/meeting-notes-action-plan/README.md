@@ -1,25 +1,126 @@
-# Meeting Notes to Action Plan
+# Meeting Notes Action Plan Project
 
-## 프로젝트 목표
+## Purpose
 
-회의 메모를 입력하면 다음 내용을 자동으로 정리하는 AI 자동화 예제를 만든다.
+This project converts plain meeting notes into a structured action plan.
 
-- 핵심 내용 요약
-- 결정 사항
-- 담당자별 할 일
-- 마감일
-- 후속 확인 사항
+The goal is to create a small automation tool that helps users extract:
 
-## 사용 상황
+- Meeting summary
+- Key decisions
+- Action items
+- Owners
+- Deadlines
+- Follow-up items
 
-공공기관, 아파트 선거관리위원회, 내부 회의, 민원 회의 등에서 회의 내용을 정리할 때 사용할 수 있다.
+---
 
-## 입력 예시
+## Project Scope
 
-회의 중 작성한 간단한 메모나 회의록 초안을 입력한다.
+### Version 0.1
+
+The first version should be simple.
+
+It should support:
+
+- Plain text input
+- Structured text output
+- Command-line execution
+- Beginner-friendly Python code
+
+It should not include:
+
+- Login
+- Database
+- Web interface
+- Email sending
+- Advanced UI
+
+---
+
+## Input Example
 
 ```text
-오늘 회의에서는 민원 응답 처리 기준을 정리했다.
-김 담당자는 기존 민원 사례를 정리하고,
-이 담당자는 답변서 초안을 작성하기로 했다.
-다음 회의는 다음 주 수요일에 진행한다.
+서버 교체 일정에 대해 논의함.
+예산 검토가 필요하며, 다음 주까지 견적서를 받아보기로 함.
+김 담당자가 업체 3곳에 문의하고, 박 담당자가 예산 검토를 진행하기로 함.
+```
+
+---
+
+## Expected Output Example
+
+```text
+Meeting Summary:
+서버 교체 일정 및 예산 검토에 대해 논의함.
+
+Key Decisions:
+- 다음 주까지 견적서를 확보하기로 함.
+- 예산 검토를 병행하기로 함.
+
+Action Items:
+1. 업체 3곳에 견적 문의
+   - Owner: 김 담당자
+   - Deadline: 다음 주
+
+2. 예산 검토
+   - Owner: 박 담당자
+   - Deadline: 다음 주
+
+Follow-up:
+- 다음 회의에서 견적 결과와 예산 검토 결과 확인
+```
+
+---
+
+## Codex Task Draft
+
+```text
+Build a simple Python command-line script.
+
+Goal:
+Convert plain meeting notes into a structured action plan.
+
+Input:
+A text file containing meeting notes.
+
+Output:
+A text file containing:
+- Meeting Summary
+- Key Decisions
+- Action Items
+- Owners
+- Deadlines
+- Follow-up Items
+
+Requirements:
+- Use Python
+- Keep the code beginner-friendly
+- Use simple functions
+- Add comments
+- Do not use a database
+- Do not create a web interface
+```
+
+---
+
+## Project Status
+
+| Item | Status |
+|---|---|
+| Project folder created | Done |
+| Input example prepared | Done |
+| Output example prepared | Done |
+| Codex task draft prepared | Done |
+| Python script created | Not started |
+| Test completed | Not started |
+
+---
+
+## Next Steps
+
+1. Create `input.txt`
+2. Create `expected-output.txt`
+3. Ask Codex to generate the first Python script
+4. Review the result
+5. Commit the first working version
