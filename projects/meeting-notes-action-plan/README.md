@@ -124,3 +124,9 @@ Requirements:
 3. Ask Codex to generate the first Python script
 4. Review the result
 5. Commit the first working version
+
+
+## Sample Files
+
+- [Input Example](input.txt)
+- [Expected Output](expected-output.txt)
